@@ -29,7 +29,7 @@ For each frame apply the following steps to identify the lane line
 - Modified the function draw_lines by using RANSAC instead of linear regression as it is more robust to the presence of outliers. By doing so we obtain a single segment representing the lane lines
 
 [test_images_output/whiteCarLaneSwitch.jpg]: ./examples/grayscale.jpg "Grayscale"
-[whiteCarLaneSwitch]: ./test_images_output/whiteCarLaneSwitch.jpg "White car lan"
+[/test_images_output/whiteCarLaneSwitch.jpg]: ./test_images_output/whiteCarLaneSwitch.jpg "White car lan"
 
 ![solidYellowLeft][test_images_output/solidYellowLeft.jpg]
 ![solidYellowCurve2][test_images_output/solidYellowCurve2.jpg]
