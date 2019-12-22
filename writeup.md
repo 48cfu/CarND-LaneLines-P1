@@ -32,9 +32,9 @@ For each frame apply the following steps to identify the lane line
 
 ![solidYellowLeft](./test_images_output/solidYellowLeft.jpg)
 ![solidYellowCurve2](./test_images_output/solidYellowCurve2.jpg)
-![solidWhiteCurve][test_images_output/solidWhiteCurve.jpg]
-![solidWhiteRight][test_images_output/solidWhiteRight.jpg]
-![solidWhiteCurve][test_images_output/solidWhiteCurve.jpg]
+![solidWhiteCurve][./test_images_output/solidWhiteCurve.jpg]
+![solidWhiteRight][./test_images_output/solidWhiteRight.jpg]
+![solidWhiteCurve][./test_images_output/solidWhiteCurve.jpg]
 
 ### 2. Identify potential shortcomings with your current pipeline
 
