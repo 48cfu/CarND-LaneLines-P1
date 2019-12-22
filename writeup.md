@@ -18,7 +18,7 @@ The goals / steps of this project are the following:
 
 ### Reflection
 
-### 1. Main stemp
+### 1. Main steps
 
 For each frame apply the following steps to identify the lane line
 - convert to gray scale
